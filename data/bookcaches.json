@@ -1,0 +1,16 @@
+{
+	"hcslcs1": {
+		"route": "Hocus Locus",
+		"num": 1,
+		"addr": {
+			"street": "Industriestraße",
+			"country": "DE",
+			"city": "Cölbe",
+			"code": 35091
+		},
+		"owner": "Rewe Markt",
+		"supervision": "Rewe Markt",
+		"link": "https://www.rewe.de/marktseite/coelbe/1465074/rewe-markt-industriestrasse-6/",
+		"lat": 50.850031,
+		"lon": 8.774269
+}
