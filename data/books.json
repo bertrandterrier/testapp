@@ -1,3 +1,40 @@
 {
-	"2024A001": {}
+	"2024A001": {
+		"author": "Sherry Turkle",
+		"publisher": "Rowohlt",
+		"title": "Leben im Netz",
+		"subtitle": "Identität in Zeiten des Internets",
+		"location": 0,
+		"year": 0,
+		"other": 0,
+		"log": [
+			"Atestabib: ersetzt 03.02.2024. Abgabe 2024",
+			"Atestabib: Umgestaltung des Ersatzungslogs am 2025-02-18"
+		]
+	},
+	"2024A001-1": {
+		"author": ["Rita Mae Brown", "Sneaky Pie Brown"],
+		"title": "Virus im Netz",
+		"subtitle": "Ein Fall für Mrs. Murphy",
+		"publisher": "Weltbild",
+		"location": 0,
+		"year": 1995,
+		"other": 0,
+		"log": [
+			"Atestabib: ersetzt 03.02.2024. Abgabe 2024",
+			"Atestabib: Umgestaltung des Ersatzungslogs am 2024-02-18"
+		]
+	},
+	"2024B086-1": {
+		"author": 0,
+		"title": "Apeman, Spaceman",
+		"subtitle": 0,
+		"publisher": 0,
+		"location": 0,
+		"year": 0,
+		"other": "edited by Leon E. Stover and Harry Harrison",
+		"log": [
+			"Atestabib: ersetzt 28.07.2024"
+		]
+	}
 }

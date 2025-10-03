@@ -1,16 +1,43 @@
 {
 	"hcslcs1": {
 		"route": "Hocus Locus",
-		"num": 1,
-		"addr": {
+		"number": "1",
+		"region": "1",
+		"addresse": {
 			"street": "Industriestraße",
+			"number": 6,
 			"country": "DE",
 			"city": "Cölbe",
-			"code": 35091
+			"postcode": 35091,
+			"note": "",
 		},
 		"owner": "Rewe Markt",
 		"supervision": "Rewe Markt",
 		"link": "https://www.rewe.de/marktseite/coelbe/1465074/rewe-markt-industriestrasse-6/",
-		"lat": 50.850031,
-		"lon": 8.774269
+		"location": [50.850031, 8.774269],
+		"log": [
+			"Atestabib: 2024-11-02. Gefunden am 21.02.2023. In Album eingetragen",
+			"Atestabib: Abgabe 8 21. Februar 2024-01"
+		]
+	},
+	"hcslcs2c": {
+		"route": "Hocus Locus":
+		"number": "2c",
+		"region": "1",
+		"addresse": {
+			"street": "Ernst-Giller-Straße",
+			"number": 5,
+			"postcode": 35059,
+			"city": "Marburg",
+			"country": "DE",
+		},
+		"location": [],
+		"owner": "Mittelhessicher Bildungsverband e.V.",
+		"supervision": "Mittelhessicher Bildungsverband e.V.",
+		"link": "https://www.mbv-ev.com",
+		"log": [
+			"Atestabib: gefundem am 2025-07-23. Letzter Besuch",
+			"Atestabib: Letzter Besuch"
+		]
+	}
 }
